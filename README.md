@@ -1,5 +1,4 @@
-# Summary of...
-## Human Activity Recognition Using Smartphones
+# Human Activity Recognition Using Smartphones
 The run_analysis.R script expects the data files to be located in the working directory when the script is run.
 The data files can be obtained at http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
